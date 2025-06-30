@@ -8,11 +8,9 @@ import { GLService } from './services/gl.service';
       logger: ['error', 'log'],
     });
 
-
     await context.get(GLService).test({ 
         url: '[PREENCHER COM O ENDPOINT AQUI]'
     });
-
     
     await context.close();
 })();

@@ -28,7 +28,6 @@
     "@nestjs/platform-express": "^10.0.0",
     "artillery": "^2.0.23",
     "autocannon": "^8.0.0",
-    "k6": "^0.0.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.1"
   },
